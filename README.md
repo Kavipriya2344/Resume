@@ -1,2 +1,2 @@
 # Resume
-my first git
+my first resume in website
